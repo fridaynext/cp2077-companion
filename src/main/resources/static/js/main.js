@@ -1,0 +1,1 @@
+/* This JS file can be minified and output in this same folder, for performance */
